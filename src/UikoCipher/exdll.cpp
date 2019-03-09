@@ -6,10 +6,9 @@
 //  CreateDate: 2013-01-04
 //  LastDate: 2014-09-03
 //
-//  Author: Pangtou (370887876@qq.com)
-//  WebStore: http://shop64088102.taobao.com
+//  Author: Garfield
 //
-//  Copyright (c) 2012-2015, Uiko Develop Team (www.uiko.cn).
+//  Copyright (c) 2012-2015, Uiko Develop Team.
 //  All Rights Reserved.
 //************************************************************
 
